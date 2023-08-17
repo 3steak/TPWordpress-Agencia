@@ -15,9 +15,8 @@ Section blog pour partager des actualités, des conseils et des informations per
 
 Installation
 Cloner le dépôt : Utilisez la commande suivante pour cloner ce dépôt sur votre machine locale :
-
-```shell
-	git clone https://github.com/3steak/TPWordpress-Agencia.git
+git clone ```shell
+	https://github.com/3steak/TPWordpress-Agencia.git
 ```
 
 Installation de WordPress : Si vous n'avez pas encore WordPress installé, suivez les instructions sur wordpress.org pour
