@@ -31,7 +31,7 @@ git clone https://github.com/3steak/TPWordpress-Agencia.git
 ## 🎨 Personnalisation Facile
 
 Ce thème est votre toile 🎨. Voici comment ajouter votre touche personnelle :
-l
+
 - **Options du thème :** Ajustez les couleurs, les polices et la mise en page sans toucher une seule ligne de code – vous avez le contrôle total.
 
 - **Affichage des Propriétés :** Utilisez les types de contenu personnalisés pour ajouter, modifier et retirer vos propriétés en un instant.
