@@ -11,7 +11,7 @@
     <header class="news__header">
         <?php $categories = get_the_category();
         if (!empty($categories)) { ?>
-            <a class="news__tag" href="<?php get_term_link($categories[0]) ?>"><?= $categories[0]->name ?></a>
+            <a class="news__tag" href="<?= get_term_link($categories[0]) ?>"><?= $categories[0]->name ?></a>
         <?php
         }
         ?>
