@@ -1,4 +1,5 @@
 Intégration WordPress d'un Thème pour Agence Immobilière
+
 Ce dépôt contient les fichiers et les ressources nécessaires pour intégrer et personnaliser un thème WordPress
 spécialement conçu pour une agence immobilière. Ce projet vise à fournir une base solide pour créer un site Web
 attrayant et fonctionnel destiné à promouvoir les biens immobiliers de votre agence.
@@ -11,14 +12,14 @@ Recherche avancée pour aider les visiteurs à trouver rapidement des biens corr
 Intégration de cartes pour afficher la localisation des propriétés.
 Mise en avant des fonctionnalités et des avantages de l'agence immobilière.
 Section blog pour partager des actualités, des conseils et des informations pertinentes sur le marché immobilier.
+
 Installation
 Cloner le dépôt : Utilisez la commande suivante pour cloner ce dépôt sur votre machine locale :
 
-<pre>
-	```shell
+```shell
 	git clone https://github.com/3steak/TPWordpress-Agencia.git
-	```
-</pre>
+```
+
 Installation de WordPress : Si vous n'avez pas encore WordPress installé, suivez les instructions sur wordpress.org pour
 mettre en place une installation locale ou distante.
 
