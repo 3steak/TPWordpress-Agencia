@@ -28,15 +28,11 @@
                 comments_template();
             } ?>
 
-
-
-
         </main>
     <?php endwhile ?>
     <aside class="sidebar">
         <?php dynamic_sidebar('blog') ?>
     </aside>
-
 </div>
 
 <?php get_footer(); ?>
