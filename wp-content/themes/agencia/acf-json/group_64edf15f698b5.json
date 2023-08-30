@@ -56,7 +56,29 @@
             "name": "floor",
             "aria-label": "",
             "type": "number",
-            "instructions": "(en m2)",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "min": "",
+            "max": "",
+            "placeholder": "",
+            "step": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_64eeef729d881",
+            "label": "Chambres",
+            "name": "rooms",
+            "aria-label": "",
+            "type": "number",
+            "instructions": "",
             "required": 1,
             "conditional_logic": 0,
             "wrapper": {
@@ -113,5 +135,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1693315983
+    "modified": 1693380611
 }
