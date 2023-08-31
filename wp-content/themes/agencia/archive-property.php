@@ -70,10 +70,17 @@
 </div>
 
 <div class="pagination">
-    <?php next_posts_link(__('More properties +', 'agencia')) ?>
+    <!-- return 0 if first page -->
+    <?php if (get_query_var('paged') > 0) { ?>
+        <!-- return pagination -->
+        <div class="pagination">
+            <?= agencia_paginate() ?>
+        </div>
+    <?php } else {
+        // return button more properties
+        next_posts_link(__('More properties +', 'agencia'));
+    }; ?>
 </div>
-<div class="pagination">
-    <?= agencia_paginate() ?>
-</div>
+
 
 <?php get_footer() ?>

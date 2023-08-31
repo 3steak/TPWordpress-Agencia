@@ -8,5 +8,5 @@ add_action('pre_get_posts', function (WP_Query $query) {
     ) {
         return;
     }
-    $query->set('posts_per_page', 2);
+    $query->set('posts_per_page', 20);
 });
